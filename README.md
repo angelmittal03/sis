@@ -40,6 +40,9 @@ npm run start
 * `scripts`         functions to decide the response and tasks
 * `utils`           utility functions such as validators etc
 
+## Features
+* `sis repeat`      to echo message
+* `roles`           to assign roles to users
 ## 💬 For commit messages
 
 Please start your commits with these prefixes for better understanding among collaborators, based on the type of commit:
