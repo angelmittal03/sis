@@ -42,7 +42,7 @@ npm run start
 
 ## Features
 * `sis repeat`      to echo message
-* `roles`           to assign roles to users
+* `who is`           to check roles of users
 ## 💬 For commit messages
 
 Please start your commits with these prefixes for better understanding among collaborators, based on the type of commit:
